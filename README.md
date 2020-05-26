@@ -1,8 +1,2 @@
-# gwc-2016
-This repo is to hold the project completed for the graduate girls who code for summer 2016
-
-
-Mendy √
-Caitlin
-Nishtha :√
-Joyce
+# Emotiscope
+iOS application to recommend media based on facial emotion via the Microsoft Emotion and Giphy APIs
